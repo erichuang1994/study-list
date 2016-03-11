@@ -5,6 +5,7 @@
 
 
 - [Advance](https://github.com/storehouse/Advance)(A powerful animation framework for iOS.)
+- [weui](https://github.com/weui/weui)(A UI library by WeChat official design team, includes the most useful widgets/modules in mobile web applications.)
 
 ### interesting
 
