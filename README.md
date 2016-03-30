@@ -8,6 +8,7 @@
 - [weui](https://github.com/weui/weui)(A UI library by WeChat official design team, includes the most useful widgets/modules in mobile web applications.)
 - [hexo-theme-next](https://github.com/iissnan/hexo-theme-next)
 - [fexo](https://github.com/forsigner/fexo)(A minimalist design theme for hexo. )
+- [React Native for OS X ](https://github.com/ptmt/react-native-desktop) Build OS X desktop apps using React Native.
 
 ### interesting
 
