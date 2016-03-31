@@ -21,3 +21,7 @@
 ### Javascript
 
 - [data structures in javascript](https://github.com/benoitvallon/data-structures-in-javascript)
+
+### Python
+
+[zhihu_crawler](https://github.com/SmileXie/zhihu_crawler)知乎爬虫的Python3实现
