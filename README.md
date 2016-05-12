@@ -22,6 +22,12 @@
 
 - [data structures in javascript](https://github.com/benoitvallon/data-structures-in-javascript)
 
+### CSS
+
+- [3D-Hartwig-chess-set](https://github.com/juliangarnier/3D-Hartwig-chess-set) Amazing
+- [3D-CSS-Solar-System](https://github.com/juliangarnier/3D-CSS-Solar-System)
+- [http://mrdoob.github.io/three.js/examples/css3d_periodictable.html](http://mrdoob.github.io/three.js/examples/css3d_periodictable.html)
+
 ### Python
 
-[zhihu_crawler](https://github.com/SmileXie/zhihu_crawler)知乎爬虫的Python3实现
+- [zhihu_crawler](https://github.com/SmileXie/zhihu_crawler)知乎爬虫的Python3实现
